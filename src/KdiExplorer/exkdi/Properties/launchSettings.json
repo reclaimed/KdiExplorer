@@ -1,0 +1,25 @@
+{
+  "profiles": {
+    "exkdi dir": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\egl\\work\\unkdi\\kdi\\other.kdi DIR -d -f wide",
+      "workingDirectory": "C:\\Users\\egl\\work\\unkdi\\"
+    },
+    "exkdi info": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\kdi\\other.kdi INFO -d csv",
+      "workingDirectory": "C:\\Users\\egl\\work\\unkdi\\"
+    },
+    "& exkdi info": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\egl\\work\\unkdi\\src\\UnKDI\\exkdi\\bin\\Debug\\net6.0\\exkdi.exe",
+      "commandLineArgs": ".\\kdi\\other.kdi INFO -f csv",
+      "workingDirectory": "C:\\Users\\egl\\work\\unkdi\\"
+    },
+    "exkdi type": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\data\\KDI\\Korvet-kdi-by-Serebriakov_010-box-papa_003-rt-98.kdi TYPE 00/LET-2OOO.txt",
+      "workingDirectory": "C:\\Users\\egl\\work\\unkdi\\"
+    }
+  }
+}

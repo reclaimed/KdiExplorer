@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorvetDiskImage", "KorvetDiskImage\KorvetDiskImage.csproj", "{7ADE70A5-C3B3-4F06-A80D-E00C30688C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exkdi", "exkdi\exkdi.csproj", "{D3163DB1-44E3-4940-8E94-9AFDD9C7EF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADE70A5-C3B3-4F06-A80D-E00C30688C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADE70A5-C3B3-4F06-A80D-E00C30688C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADE70A5-C3B3-4F06-A80D-E00C30688C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADE70A5-C3B3-4F06-A80D-E00C30688C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3163DB1-44E3-4940-8E94-9AFDD9C7EF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3163DB1-44E3-4940-8E94-9AFDD9C7EF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3163DB1-44E3-4940-8E94-9AFDD9C7EF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3163DB1-44E3-4940-8E94-9AFDD9C7EF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5241A3B9-48FC-47B5-A5F1-2CFAD536027A}
+	EndGlobalSection
+EndGlobal
